@@ -1,3 +1,5 @@
 venv/
 *.xml
 *.iml
+csv_files/
+image_files/
